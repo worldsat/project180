@@ -1,0 +1,116 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/banner1.png?alt=media&token=a6bc92a4-c617-4fe7-a19e-8ffcdd2c0555"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/banner2.png?alt=media&token=2c2a98de-2240-4130-8a89-7fbe7e49fa21"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/cat_1.png?alt=media&token=c2657f29-0008-4ead-9cd0-a51f8e628454",
+      "title": "Cat"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/cat_2.png?alt=media&token=994f90aa-b47e-4d2e-a0a8-049830bbe508",
+      "title": "Dog"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/cat_3.png?alt=media&token=fbcc412e-2374-49a9-81b0-1bef840d88d2",
+      "title": "Fish"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/cat_4.png?alt=media&token=b160270f-c4b4-44a3-9fcc-560dc914b32e",
+      "title": "Bird"
+    }
+  ],
+  "Items": [
+    {
+      "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item1.png?alt=media&token=c04145ca-e742-4297-9a15-08dc8a96987a"
+      ],
+      "price": 230,
+      "rating": 4.6,
+      "sellerName": "David brown",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/avatar1.jpg?alt=media&token=73422b73-85ea-43cd-bfab-e9ea878a6fde",
+      "sellerTell": 123456789,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "title": "Dog Sweater"
+    },
+    {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item2.png?alt=media&token=fef0fe21-4fec-41b3-92b6-bbc32e6e1e78",
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item_2_1.png?alt=media&token=fc6e5c05-7f90-45e3-b089-312096b78cde",
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item_2_2.png?alt=media&token=b530c8d1-9f30-41d1-b8ec-ba6d61ceaf28",
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item_2_3.png?alt=media&token=05505500-607a-41f4-9e96-7207f219eb88",
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item_2_4.png?alt=media&token=7e68dd94-6cd6-413e-b8bf-de82437e24e3",
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item_2_5.jpg?alt=media&token=fb6eda24-38d0-4add-a04a-6df659393ccb"
+      ],
+      "price": 185,
+      "rating": 4.1,
+      "sellerName": "Jemmy Hanks",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/avatar2.jpg?alt=media&token=074dee43-dfe7-428f-ad59-6713c2e9a13f",
+      "sellerTell": 123456789,
+      "size": [
+        "1 Kg",
+        "2 Kg",
+        "3 Kg",
+        "5 Kg",
+        "10 Kg",
+        "20 Kg"
+      ],
+      "title": "Pet dainties"
+    },
+    {
+      "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item3.png?alt=media&token=2ef9a798-7812-4589-ba72-77b95d63ee7a"
+      ],
+      "price": 280,
+      "rating": 4.5,
+      "sellerName": "Betty Cuthbert",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/avatar3.jpg?alt=media&token=4028c02f-8295-4ad1-987e-379f7de7bb3a",
+      "sellerTell": 123456789,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "title": "Dog mattress"
+    },
+    {
+      "description": "This stylish red and black plaid shirt is perfect for any occasion. Made from a soft cotton blend, it's comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/item4.png?alt=media&token=04ebe496-b2d4-4a19-baf4-9524933a3bf0"
+      ],
+      "price": 65,
+      "rating": 4.2,
+      "sellerName": "Sara Anderson",
+      "sellerPic": "https://firebasestorage.googleapis.com/v0/b/projecy180.appspot.com/o/avatar4.jpg?alt=media&token=fad90ee8-1e91-46e2-89bb-cc5fc47c377b",
+      "sellerTell": 123456789,
+      "size": [
+        "1 Kg",
+        "2 Kg",
+        "3 Kg",
+        "5 Kg",
+        "10 Kg",
+        "20 Kg"
+      ],
+      "title": "Pet Food"
+    }
+  ]
+}
